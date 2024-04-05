@@ -75,9 +75,6 @@ as-TechnoPirate01"><img height="170em" alt="Akshay Saharajan's Top Languages" sr
 <br/>
 
 
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
@@ -87,6 +84,7 @@ as-TechnoPirate01"><img height="170em" alt="Akshay Saharajan's Top Languages" sr
 <a href="https://www.facebook.com/akshay.saharajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akshay.saharajan/" height="30" width="40" /></a>
 
 </p>
+<br>
 
 ## ❤ Views and Followers
 <a href="https://github.com/as-TechnoPirate01">
