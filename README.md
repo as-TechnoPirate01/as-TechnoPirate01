@@ -5,8 +5,9 @@
   </a> 
 </p>
 <h3 align="center">A passionate full Stack web developer from Canada</h3>
-
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnkwZnVybWxydGYyZWJxdXV4ZDlhczJ6ZXd0cmVpcHhlMDZ2eDhiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<!-- https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnkwZnVybWxydGYyZWJxdXV4ZDlhczJ6ZXd0cmVpcHhlMDZ2eDhiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzllMTEwcmhxZXc0ankwYjg3Yzh2NDRtM2xjeW5saGJ4YmJraHZiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif -->
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzllMTEwcmhxZXc0ankwYjg3Yzh2NDRtM2xjeW5saGJ4YmJraHZiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as-TechnoPirate01&label=Profile%20views&color=0e75b6&style=flat" alt="as-TechnoPirate01" /> </p>
 
 ## 🙋‍♂️ About Me
